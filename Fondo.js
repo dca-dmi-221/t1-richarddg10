@@ -4,7 +4,7 @@ class Fondo{
         this.y = y
         this.ancho = ancho
         this.alto = alto
-        this.fondoDonas = loadImage('fondoDonas.jpg')
+        this.fondoDonas = loadImage('fondoReproductor.jpg')
     }
 
     show(){
